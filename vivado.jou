@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Nov 24 17:28:33 2019
+# Process ID: 21492
+# Current directory: C:/Users/biubiubiu/Desktop/test
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25084 C:\Users\biubiubiu\Desktop\test\test.xpr
+# Log file: C:/Users/biubiubiu/Desktop/test/vivado.log
+# Journal file: C:/Users/biubiubiu/Desktop/test\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project C:/Users/biubiubiu/Desktop/test/test.xpruupdate_compile_order -fileset sources_1
+close [ open C:/Users/biubiubiu/Desktop/test/test.srcs/sources_1/new/FFT.v w ]
+add_files C:/Users/biubiubiu/Desktop/test/test.srcs/sources_1/new/FFT.v
+update_compile_order -fileset sources_1
